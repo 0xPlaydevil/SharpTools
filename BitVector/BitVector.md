@@ -1,0 +1,2 @@
+与BitArray，BitVector32相似
+提供与int/byte等相似的逻辑位运算操作
